@@ -1,1 +1,17 @@
 /* Add application styles & imports to this file! */
+* {
+  font-family: 'Lato', Arial, sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+}
+
+app-top-bar {
+  /* overflow: hidden; */
+  background-color: #dadfe1;
+  /* flex: 0 1 auto; */
+}
